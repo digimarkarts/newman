@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "e2a25c15-107c-406a-9252-deb428da9ce8",
+		"name": "Sample",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37429078"
+	},
+	"item": [
+		{
+			"name": "RestApi_Objects",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get10",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getSingle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
